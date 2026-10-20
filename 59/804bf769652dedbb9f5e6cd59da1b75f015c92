@@ -1,0 +1,16 @@
+site/content/en/references/kustomize/builtins/_index.md
+  h_9854f70d7b1e60 44-47,49-57,79-101,103-114,123,125-132,135-157,159-160
+site/themes/docsy/layouts/partials/head.html
+  h_9854f70d7b1e60 15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "59804bf769652dedbb9f5e6cd59da1b75f015c92",
+  "prompts": {},
+  "humans": {
+    "h_9854f70d7b1e60": {
+      "author": "uri zafrir <urizaf@gmail.com>"
+    }
+  }
+}
